@@ -1,4 +1,4 @@
-FROM nvidia/cuda:9.2-devel-ubuntu18.04
+FROM nvidia/cuda:9.1-devel
 
 ENV NEVERMORE_VERSION=v0.2.3
 
